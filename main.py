@@ -93,6 +93,6 @@ async def main():
                 continue
 
 
-python join_discord.py
+
 
 asyncio.run(main())
