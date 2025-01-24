@@ -4,7 +4,7 @@ from aioconsole import aprint
 import ssl
 
 # Invite code here
-code = "TwilightVault"
+code = "Thttps://discord.gg/gC6N7bze"
 
 async def main():
     tokens = open("tokens.txt").read().splitlines()
@@ -93,5 +93,6 @@ async def main():
                 continue
 
 
+python join_discord.py
 
 asyncio.run(main())
